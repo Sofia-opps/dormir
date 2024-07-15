@@ -1,0 +1,12 @@
+h1 {
+	color: #1D0085;
+	text-align: center;
+}
+
+p {
+   background-color: url (VIANDE.jpg);
+}
+
+body {
+	font-family: Roboto, sans-serif;
+}
